@@ -1,0 +1,24 @@
+.navbar{
+    
+}
+.navbar-brand{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 700;
+} 
+
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+.carousel-item img{
+    max-height: 100vh;
+}
+
+/*.img{
+    vertical-align: middle;
+}*/
+
+.card-title i {
+    color:#ffffff;
+}
